@@ -1,4 +1,4 @@
-// Time Complexity : O(N)
+// Time Complexity : O(N*h)
 // Space Complexity : O(N) for recursive stack space
 // Did this code successfully run on Leetcode : yes
 // Any problem you faced while coding this : No
